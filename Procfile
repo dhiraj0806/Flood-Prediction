@@ -1,2 +1,2 @@
    
-  web: sh setup.sh && streamlit run flood-prediction(pbl).py
+  web: sh setup.sh && streamlit run flood_prediction(pbl).py
