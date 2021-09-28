@@ -1,2 +1,2 @@
    
-  web: sh setup.sh && streamlit run FLOOD_PREDICTION(PBL).ipynb
+  web: sh setup.sh && streamlit run Flood_Prediction(PBL).ipynb
